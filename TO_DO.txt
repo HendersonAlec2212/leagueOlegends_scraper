@@ -1,0 +1,5 @@
+obtain images and base stats per level for champions
+
+obtain images for all items both unique to champions and not
+
+obtian master work item information.
